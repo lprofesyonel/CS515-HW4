@@ -1,0 +1,11 @@
+# --- Core Deep Learning Framework & Computation Backend ---
+torch>=2.0.0
+numpy>=1.22.0
+
+# --- Financial Data Pipeline & Quantitative Analysis ---
+yfinance>=0.2.38
+pandas>=2.0.0
+scikit-learn>=1.2.0
+
+# --- Telemetry, Plotting & Visualization ---
+matplotlib>=3.7.0
